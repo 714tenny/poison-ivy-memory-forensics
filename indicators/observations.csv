@@ -1,0 +1,5 @@
+type,value,context
+process,poisonivy.exe,PID 480 in this memory snapshot
+path,C:\WINDOWS\System32\poisonivy.exe,cmdline corroborated by file-object references
+remote_endpoint,192.168.5.98:3460,connscan artifact; live C2 unproven
+local_endpoint,0.0.0.0:1037,Screenshot value; source narrative listed 1074
